@@ -1,0 +1,13 @@
+{
+  "raw_csv": "C:/Users/patil/OneDrive/Desktop/New folder/online_retail_II.xlsx",
+  "processed_folder": "data/processed",
+  "sales_drop_threshold_pct": 15,
+
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "Rasik@2005",
+    "database": "retail_etl"
+  }
+}
